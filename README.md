@@ -73,7 +73,10 @@ Play_store_market_analysis/
 │   ├── google_play_store_dataset.csv      # Raw source data
 │   └── google_play_store_cleaned.csv      # Cleaned output for Tableau
 ├── play_store_analysis.ipynb              # Full PySpark cleaning + analysis notebook
-└── README.md
+├── requirements.txt                       # Python dependencies
+├── LICENSE                                # MIT License
+├── .gitignore
+└── README.md                 
 ```
 ## How to Reproduce
 
