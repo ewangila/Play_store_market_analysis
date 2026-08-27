@@ -81,8 +81,7 @@ Play_store_market_analysis/
 ## How to Reproduce
 
 ### 1. Clone the repository
-```
-bash
+```bash
 git clone https://github.com/ewangila/Play_store_market_analysis.git
 cd Play_store_market_analysis
 ```
@@ -94,8 +93,7 @@ cd Play_store_market_analysis
 - Optional: Tableau Public / Desktop (to open the published dashboard)
 
 ### 3. Run the analysis
-```
-bash
+```bash
 jupyter notebook play_store_analysis.ipynb
 ```
 ## The notebook will:
